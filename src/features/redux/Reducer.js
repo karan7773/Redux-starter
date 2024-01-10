@@ -1,4 +1,4 @@
-let lastId=0;
+ let lastId=0;
 
 function Reducer(state=[],action){
     switch (action.type){
