@@ -18,8 +18,8 @@ const ListofPosts = () => {
 
     return (
         <div>
-            <h1>All Posts</h1>
             <NewPost/>  
+            <h1>All Posts</h1>
             {rendurPost}
         </div>
     )
